@@ -1,0 +1,27 @@
+{
+  "name": "kineta",
+  "version": "1.0.0",
+  "description": "chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadatofficial/kineta.git"
+  },
+  "keywords": [
+    "chat-application"
+  ],
+  "author": "Jack Chipofya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadatofficial/kineta/issues"
+  },
+  "homepage": "https://github.com/hadatofficial/kineta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.0.1"
+  }
+}
